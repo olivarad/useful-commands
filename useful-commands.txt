@@ -1,0 +1,36 @@
+mkdir <directory name> - create listed directory
+
+cd <directory name> - change to listed directory
+
+touch <file name> - creates a file
+
+ls <(optional) target characters> - list directories
+
+pwd - print working directory
+
+cp (name, destination) - copy
+
+mv (name, newname) - move (rename)
+
+rm (name) - remove
+
+more (file) - display file
+
+history - displays last 500 compiler commands
+
+passwd - change password
+
+							git
+git init - initializes git repository
+
+git clone <ssh link> - pairs repositories and clones (must set up before adding files to directory)
+
+git pull - pulls linked repository
+
+git status
+
+git add .
+
+git commit -m "comment of changes"
+
+git push
